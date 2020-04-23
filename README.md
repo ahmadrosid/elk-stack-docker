@@ -4,7 +4,7 @@ This is simple docker compose for elastic search, kibana, logstash and redis usi
 
 ## Run the container
 ```bash
-docker-compose up -d
+docker-compose up
 ```
 
 ## Verify
